@@ -42,11 +42,11 @@
 
     // Team carousel
     $(".team-carousel").owlCarousel({
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 1000,
         center: true,
-        dots: true,
-        loop: true,
+        dots: false,
+        loop: false,
         margin: 30,
         responsive: {
             0:{
