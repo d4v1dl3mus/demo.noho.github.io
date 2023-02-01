@@ -9686,3 +9686,11 @@ h6,
 .pricing a{
   color: white !important;
 }
+
+
+.menu-fixed{
+  position: fixed;
+  top: 0;
+  background: rgba(0, 0, 0, 0.7);
+  Transition:0.5s all;
+}
