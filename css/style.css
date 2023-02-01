@@ -9676,3 +9676,13 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+.pricing h3{
+  color: white !important;
+}
+.pricing h1{
+  color: white !important;
+}
+.pricing a{
+  color: white !important;
+}
